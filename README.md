@@ -31,8 +31,8 @@ The following table details the completed geometric models that are ready for fu
 
 | Project / Structure | Origin / Tool | Available Formats | Simulation Status | Direct Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tutorial Structure 1** | COMSOL Tutorial | `.mph` (Geometry) / `.step` | 🛠️ Geometry Only | [View Details](./01_Geometries_and_CAD/Estructura_Tutorial_1/) |
-| **Tutorial Structure 2** | Parametric Design | `.mph` (Geometry) / `.x_t` | 🛠️ Geometry Only | [View Details](./01_Geometries_and_CAD/Estructura_Tutorial_2/) |
+| **Structure Circulator** | COMSOL Modeling Exercises | `.mphbin` | 🛠️ Geometry Only | [View Details](./01_Geometries_and_CAD) |
+| **Landing Gear** | COMSOL Modeling Exercises | `.mphbin` | 🛠️ Geometry Only | [View Details](./01_Geometries_and_CAD) |
 
 > 💡 *Technical Note: All `.mph` files hosted in this repository have been saved after performing a "Clear All Solutions" process to optimize file size and ensure a lightweight download.*
 
@@ -82,8 +82,10 @@ A continuación se detallan los modelos geométricos completados y listos para l
 
 | Proyecto / Estructura | Origen / Herramienta | Formatos Disponibles | Estado de Simulación | Enlace Directo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Estructura Tutorial 1** | Tutorial COMSOL | `.mph` (Geometría) / `.step` | 🛠️ Solo Geometría | [Ver Detalles](./01_Geometries_and_CAD/Estructura_Tutorial_1/) |
-| **Estructura Tutorial 2** | Diseño Paramétrico | `.mph` (Geometría) / `.x_t` | 🛠️ Solo Geometría | [Ver Detalles](./01_Geometries_and_CAD/Estructura_Tutorial_2/) |
+| **Circulador** | Ejercicio de modelaje de COMSOL | `.mphbin` | 🛠️ Solo Geometría | [Ver Detalles](./01_Geometries_and_CAD) |
+| **Tren de Aterrizaje** | Ejercicio de modelaje de COMSOL | `.mphbin` | 🛠️ Solo Geometría | [Ver Detalles](./01_Geometries_and_CAD) |
+
+
 
 > 💡 *Nota técnica: Todos los archivos `.mph` alojados en este repositorio han sido guardados tras un proceso de "Clear All Solutions" para optimizar el peso del archivo y asegurar una descarga ligera.*
 
